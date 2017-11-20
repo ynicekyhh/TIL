@@ -9,4 +9,5 @@ Javascript등에서 개발 시에 Callback 함수로 인해 코드의 복잡성�
 - Promise 패턴은 비동기 처리를 깔끔하게 하기 위한 패턴
 
 - 참고자료
-[여기참고](https://medium.com/@pitzcarraldo/callback-hell-%EA%B3%BC-promise-pattern-471976ffd139)
+
+[https://medium.com/@pitzcarraldo/callback-hell-%EA%B3%BC-promise-pattern-471976ffd139](https://medium.com/@pitzcarraldo/callback-hell-%EA%B3%BC-promise-pattern-471976ffd139)
