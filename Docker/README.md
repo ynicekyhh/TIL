@@ -18,4 +18,5 @@
 
 - 깃헙과 같이 도커헙에서 이미지를 올리고 받을 수 있음(따라서 깃과 비슷한 개념들이 존재함)
 
-- 참고자료 : 생활코딩 도커강의
+- 참고자료 : 
+[생활코딩 도커강의 : https://opentutorials.org/course/128/8657](https://opentutorials.org/course/128/8657)
